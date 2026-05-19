@@ -51,5 +51,5 @@ This repository is structured as a production-ready environment:
   * *Deliverable:* Operations Intelligence Platform.
 
 ## 🔗 Connect
-* **LinkedIn:** [Insert Link Here]
+* **LinkedIn:** (https://www.linkedin.com/in/nicolas-morales-7b51a519b/)
 * **Status:** Active (Started May 2026)
