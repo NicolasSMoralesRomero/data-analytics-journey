@@ -1,7 +1,6 @@
 # Data Analytics Portfolio: From Operations to Intelligence
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
-![Phase](https://img.shields.io/badge/Phase-1%20Foundations-blue)
-![Started](https://img.shields.io/badge/Started-2025-lightgrey)
+![Started](https://img.shields.io/badge/Started-2026-lightgrey)
  
 ---
 
